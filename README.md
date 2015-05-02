@@ -1,2 +1,2 @@
-# LD30
-Game made for the Ludum Dare competition #30
+# LD31
+Game made for the Ludum Dare competition #31
