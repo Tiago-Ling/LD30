@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "LD31",
+			"path": "/Users/tiagolingalexandre/Projects/Haxe/LD31"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "/Users/tiagolingalexandre/GitRepos/flixel/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "/Users/tiagolingalexandre/GitRepos/flixel-addons/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "/usr/lib/haxe/std"
+		}
+	]
+}
